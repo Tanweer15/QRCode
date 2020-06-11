@@ -1,0 +1,14 @@
+C:\Users\mehdi\source\repos\QRCodeReader\QRCodeReader\bin\Debug\netcoreapp2.1\QRCodeReader.deps.json
+C:\Users\mehdi\source\repos\QRCodeReader\QRCodeReader\bin\Debug\netcoreapp2.1\QRCodeReader.runtimeconfig.json
+C:\Users\mehdi\source\repos\QRCodeReader\QRCodeReader\bin\Debug\netcoreapp2.1\QRCodeReader.runtimeconfig.dev.json
+C:\Users\mehdi\source\repos\QRCodeReader\QRCodeReader\bin\Debug\netcoreapp2.1\QRCodeReader.dll
+C:\Users\mehdi\source\repos\QRCodeReader\QRCodeReader\bin\Debug\netcoreapp2.1\QRCodeReader.pdb
+C:\Users\mehdi\source\repos\QRCodeReader\QRCodeReader\obj\Debug\netcoreapp2.1\QRCodeReader.csprojAssemblyReference.cache
+C:\Users\mehdi\source\repos\QRCodeReader\QRCodeReader\obj\Debug\netcoreapp2.1\QRCodeReader.csproj.CoreCompileInputs.cache
+C:\Users\mehdi\source\repos\QRCodeReader\QRCodeReader\obj\Debug\netcoreapp2.1\QRCodeReader.RazorAssemblyInfo.cache
+C:\Users\mehdi\source\repos\QRCodeReader\QRCodeReader\obj\Debug\netcoreapp2.1\QRCodeReader.RazorAssemblyInfo.cs
+C:\Users\mehdi\source\repos\QRCodeReader\QRCodeReader\obj\Debug\netcoreapp2.1\QRCodeReader.AssemblyInfoInputs.cache
+C:\Users\mehdi\source\repos\QRCodeReader\QRCodeReader\obj\Debug\netcoreapp2.1\QRCodeReader.AssemblyInfo.cs
+C:\Users\mehdi\source\repos\QRCodeReader\QRCodeReader\obj\Debug\netcoreapp2.1\QRCodeReader.RazorTargetAssemblyInfo.cache
+C:\Users\mehdi\source\repos\QRCodeReader\QRCodeReader\obj\Debug\netcoreapp2.1\QRCodeReader.dll
+C:\Users\mehdi\source\repos\QRCodeReader\QRCodeReader\obj\Debug\netcoreapp2.1\QRCodeReader.pdb
